@@ -12,7 +12,7 @@ RECHERCHE D'EMPLOI
 De nombreuses structure peuvent vous aider à constituer une liste d'entreprise.
 Si cela vous intéresse et que vous êtes au Burkina Faso vous pouvez faire appel à nos services pour constituer la votre.
 
-Télécharger gratuitement notre échantillons de base de donné avec un liste de 500 entreprise pour commencer :
+Télécharger gratuitement notre échantillons de base de donné avec un liste de 500 entreprise pour commencer : https://github.com/somkietacode/comment-trouver-un-emploi/raw/main/echantillons.xlsx
 
 Ne manquez rien de notre actualité! abonnez-vous à notre page Facebook pour plus de contenu : https://www.facebook.com/globalanalysistech
 
